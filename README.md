@@ -8,6 +8,7 @@ For more on hooks, go to https://wiki.archlinux.org/index.php/Pacman#Hooks.
 Requires the reflector package, which allows for sorting your mirror list
 
 Breakdown of flags used:
+
 | Flag | Description |
 | ----------------------------------- | -----------------------------------------------------------------------	|
 | --protocol "<protocol>"	| which protocol the mirror uses, usually http or https |
