@@ -21,3 +21,5 @@ Breakdown of flags used:
 | --score *n*	| sort the top *n* mirrors based on the mirror score |
 | --fastest *n* | sort the top *n* mirrors based on speed |
 | --save \<filepath\>	| file to save the mirrorlist to (usually /etc/pacman.d/mirrorlist) |
+
+To get a better breakdown of all the flags used in reflector, use `reflector --help` and check out https://wiki.archlinux.org/index.php/reflector (obligatory standard Arch user response :))
