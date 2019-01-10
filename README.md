@@ -9,7 +9,7 @@ Requires the reflector package, which allows for sorting your mirror list
 
 Breakdown of flags used:
 | Flag                         				| Description                                                          		|
-|------------------------------------ |:----------------------------------------------------------------------:	|
+| ----------------------------------- | -----------------------------------------------------------------------	|
 | --protocol "<protocol>"      				| which protocol the mirror uses, usually http or https                		|
 | --country "<country name>"   				| which country the mirrors are based in                               		|
 | --latest *n*                 				| *n* mirrors that were most recently synchronized                       	|
